@@ -1,4 +1,4 @@
-Inward Outward Register Application made in Laravel v5.7 
+Inward Outward Register Application Version 1.0 (Version 2.0 will be released soon)
 
 
 Step 1:
