@@ -1,11 +1,9 @@
-Inward Outward Register Application Version 1.0 (Version 2.0 will be released soon)
+# Inward Outward Register Application Version 1.0 
+### (Version 2.0 will be released soon)
 
+### Step 1: Migrate all files by using php artisan migrate and the application is ready to use.
 
-Step 1:
-Migrate all files by using php artisan migrate and Application is ready for use.
-
-Check Application:
-
+## Application Interface: 
 
 ![1](https://user-images.githubusercontent.com/17043665/50724631-a8c3d280-1112-11e9-82d0-8fbc79192248.png)
 
